@@ -1,61 +1,20 @@
-# Hi, I'm @kks0488
+### @kks0488
 
-> **Don't think. Just vibe.**
-
-I build tools that let AI do the heavy lifting.
+AI 도구 만듦. 자동화 좋아함.
 
 ---
 
-## Featured Project
+#### Projects
 
-### [Vibe-Claude](https://github.com/kks0488/vibe-claude)
-
-A **self-evolving** multi-agent orchestration system for Claude Code.
-
-```
-You say it → Claude does it → Until it's done
-```
-
-**What makes it special:**
-- **Self-Evolution**: Creates new agents when it encounters gaps
-- **5-Phase System**: Recon → Planning → Execution → Verification → Polish
-- **Verification Tribunal**: Nothing ships without proof
-- **Infinite Retry**: Never stops until success
-
-```bash
-# Install
-git clone https://github.com/kks0488/vibe-claude.git ~/.claude-vibe
-cp -r ~/.claude-vibe/* ~/.claude/
-
-# Use
-/vibe build me a login page
-```
-
-**No coding required. Just describe what you want.**
+| | |
+|---|---|
+| [vibe-claude](https://github.com/kks0488/vibe-claude) | 스스로 진화하는 AI 코딩 시스템 |
+| [mystats](https://github.com/kks0488/mystats) | 로컬 AI 저널 |
+| [dailywave](https://github.com/kks0488/dailywave) | - |
+| [repofit](https://github.com/kks0488/repofit) | 오픈소스 매칭 |
 
 ---
 
-## Philosophy
+#### Links
 
-| Traditional | Vibe |
-|-------------|------|
-| Write requirements | "Make this" |
-| Design architecture | Done. |
-| Write code | |
-| Debug | |
-| Repeat... | |
-
-**Money solves problems.** We use Opus without hesitation.
-
----
-
-## Connect
-
-- **Twitter/X**: [@kks0488](https://x.com/kks0488)
-- **Blog**: [aionda.blog](https://aionda.blog)
-- **GitHub**: [@kks0488](https://github.com/kks0488)
-- **Featured**: [vibe-claude](https://github.com/kks0488/vibe-claude)
-
----
-
-*"Vibe coding: where you describe, AI delivers."*
+[Twitter](https://x.com/kks0488) · [Blog](https://aionda.blog)
