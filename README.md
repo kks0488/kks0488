@@ -20,4 +20,4 @@ Open source project matching.
 
 ---
 
-[Twitter](https://x.com/kks0488) · [Blog](https://aionda.blog)
+[X](https://x.com/kks0488) · [Blog](https://aionda.blog)
