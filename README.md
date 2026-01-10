@@ -51,8 +51,10 @@ cp -r ~/.claude-vibe/* ~/.claude/
 
 ## Connect
 
+- **Twitter/X**: [@kks0488](https://x.com/kks0488)
+- **Blog**: [aionda.blog](https://aionda.blog)
 - **GitHub**: [@kks0488](https://github.com/kks0488)
-- **Project**: [vibe-claude](https://github.com/kks0488/vibe-claude)
+- **Featured**: [vibe-claude](https://github.com/kks0488/vibe-claude)
 
 ---
 
