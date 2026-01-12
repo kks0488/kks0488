@@ -9,7 +9,7 @@ Building tools that let AI do the work.
 **[vibe-claude](https://github.com/kks0488/vibe-claude)**
 Self-evolving multi-agent system for Claude Code. 12 specialized agents, 5-phase workflow, infinite retry until done.
 
-**[vibe-skills](https://github.com/kks0488/vibe-skills)**
+**[vibe-codex](https://github.com/kks0488/vibe-codex)**
 AI-first skills for autonomous coding. Fast loops, zero-setup, works with Codex and OpenCode.
 
 **[mystats](https://github.com/kks0488/mystats)**
