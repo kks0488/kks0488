@@ -1,49 +1,52 @@
 <p align="center">
-  <img src="assets/banner-ko.png" alt="kks0488 — AI 자동화 전문가: Claude Code, AI 에이전트, MCP, RAG" width="100%">
+  <img src="assets/banner-ko.png" alt="kks0488 — AI 자동화 전문가, AI 영상, 전 아디다스 이커머스 분석가" width="100%">
 </p>
 
 <p align="center">
   <a href="README.md"><b>English</b></a> · <b>한국어</b>
 </p>
 
-<h2 align="center">일을 대신하는 AI 도구를 만들고,<br>그 일이 정말 끝났는지까지 확인합니다.</h2>
+<h2 align="center">AI 자동화 전문가 · AI 영상 · 전 아디다스 이커머스 분석가</h2>
 
 <p align="center">
-  김경수 · 서울 · 한국어·영어로 원격 작업
+  일을 대신하는 AI 에이전트와 자동화를 만들고, 그 일이 정말 끝났는지까지 확인합니다.<br>김경수 · 서울 · 한국어·영어로 원격 작업
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~0197507708d4b35a03"><img src="https://img.shields.io/badge/Hire_me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
+  <a href="https://www.upwork.com/freelancers/~0197507708d4b35a03"><img src="https://img.shields.io/badge/의뢰하기-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="https://x.com/kks0488"><img src="https://img.shields.io/badge/X-@kks0488-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://aionda.blog"><img src="https://img.shields.io/badge/Blog-aionda-7c8cf8?style=for-the-badge" alt="Blog"></a>
+  <a href="https://aionda.blog"><img src="https://img.shields.io/badge/Blog-aionda-7c8cf8?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
+  <img src="https://komarev.com/ghpvc/?username=kks0488&color=d97757&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
+
+## 하는 일
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Claude Code·Codex 도구
-코딩 AI가 스스로 테스트하고, 백업을 남기고, 맥락을 기억하게 하는 플러그인·스킬·MCP 서버.
+### 🤖 AI 에이전트·코딩 도구
+코딩 AI가 스스로 테스트하고, 백업을 남기고, 맥락을 기억하게 하는 Claude Code·Codex 플러그인, 스킬, MCP 서버.
 
 </td>
 <td width="50%" valign="top">
 
-### 업무 자동화
-메일 분류, 정기 수집, 슬랙 알림, 대시보드. 혼자 돌고, 한 일을 보고합니다.
+### ⚙️ 업무 자동화
+메일 분류, 정기 수집, 슬랙 알림, 대시보드, 쇼핑몰 운영 자동화. 혼자 돌고 한 일을 보고합니다.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 커머스 데이터
-아디다스 코리아 커머스 데이터 분석가·MD, 타미힐피거·캘빈클라인 한국 아웃렛 데이터 분석가 출신. 매장이 돌아가는 숫자를 압니다.
+### 📊 이커머스 데이터
+아디다스 코리아 커머스 데이터 분석가·MD, 타미힐피거·캘빈클라인 한국 아웃렛 데이터 분석가를 거쳐 패션 아웃렛 매장을 직접 운영했습니다.
 
 </td>
 <td width="50%" valign="top">
 
-### 확인할 수 있게 만듭니다
-실제 테스트, 실제 결과, 사실만 쓴 README. 확인되지 않은 것은 확인되지 않았다고 알려 줍니다.
+### 🎬 영상·AI 영상
+결혼식·건축·인테리어 영상 촬영과 편집을 프리랜서로 해 왔고, 지금은 AI 이미지·영상 도구와 함께 작업합니다.
 
 </td>
 </tr>
@@ -54,80 +57,117 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/kks0488/vibe-claude"><img src="https://github.com/kks0488/vibe-claude/raw/main/assets/banner.png" alt="vibe-claude"></a>
+<a href="https://github.com/kks0488/vibe-claude"><img src="https://github.com/kks0488/vibe-claude/raw/main/assets/banner-ko.png" alt="vibe-claude"></a>
 
-**[vibe-claude](https://github.com/kks0488/vibe-claude)** · Python<br>
-코드를 읽지 않는 사람을 위한 Claude Code 플러그인. 실제 테스트가 통과할 때까지 Claude를 돌려보내고, 요청마다 백업하며, "되돌려" 한마디로 파일을 복구합니다.
+**[vibe-claude](https://github.com/kks0488/vibe-claude)** · Python · Claude Code plugin<br>
+코드를 읽지 않는 사람을 위한 Claude Code 플러그인. 실제 테스트가 통과할 때까지 Claude를 돌려보내고, 요청마다 백업하고, "되돌려" 한마디로 복구합니다.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/kks0488/skilladopt"><img src="https://github.com/kks0488/skilladopt/raw/main/assets/banner.png" alt="skilladopt"></a>
+<a href="https://github.com/kks0488/skilladopt"><img src="https://github.com/kks0488/skilladopt/raw/main/assets/banner-ko.png" alt="skilladopt"></a>
 
-**[skilladopt](https://github.com/kks0488/skilladopt)** · TypeScript · npm<br>
-에이전트 스킬을 그냥 설치하지 말고 입양하세요. 남이 만든 SKILL.md를 내 코드에 맞게 고치고, 근거를 남기고, 프로젝트가 바뀌면 다시 볼 줄을 알려 줍니다.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/kks0488/vibe-codex"><img src="https://github.com/kks0488/vibe-codex/raw/main/assets/banner.png" alt="vibe-codex"></a>
-
-**[vibe-codex](https://github.com/kks0488/vibe-codex)** · Codex CLI<br>
-Codex CLI용 근거 우선 작업 스킬. 작업 크기에 맞는 계획, 횟수 제한 재시도, 근거 있는 완료 보고, 선택형 로컬 메일박스 런타임.
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/kks0488/codex-memory"><img src="https://github.com/kks0488/codex-memory/raw/main/assets/banner.png" alt="codex-memory"></a>
-
-**[codex-memory](https://github.com/kks0488/codex-memory)** · TypeScript · MCP<br>
-OpenAI Codex CLI에 오래 가는 기억을 주는 MCP 서버. 내 컴퓨터의 SQLite에 저장합니다.
+**[skilladopt](https://github.com/kks0488/skilladopt)** · TypeScript · npm CLI<br>
+에이전트 스킬을 그냥 설치하지 말고 입양하세요. 남의 SKILL.md를 내 코드에 맞게 고치고, 근거를 남기고, 바뀐 뒤 다시 볼 줄을 알려 줍니다.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/kks0488/mystats"><img src="https://github.com/kks0488/mystats/raw/main/assets/banner.png" alt="mystats"></a>
+<a href="https://github.com/kks0488/over6"><img src="https://github.com/kks0488/over6/raw/main/assets/banner-ko.png" alt="over6"></a>
 
-**[mystats](https://github.com/kks0488/mystats)** · React · [라이브 데모](https://mystats-eta.vercel.app)<br>
-로컬 우선 AI 일기·커리어 전략 도구. Gemini·OpenAI·Claude·Grok 중 골라 쓰고, 기록은 내 브라우저에 남습니다.
+**[over6](https://github.com/kks0488/over6)** · Next.js · multi-agent<br>
+12개 전통 중 고른 AI 철학자 5명이 3라운드 토론하고, 6번째 AI가 합의를 해체합니다. 결정은 사람이 합니다.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/kks0488/dailywave"><img src="https://github.com/kks0488/dailywave/raw/main/assets/banner.png" alt="dailywave"></a>
+<a href="https://github.com/kks0488/vibe-codex"><img src="https://github.com/kks0488/vibe-codex/raw/main/assets/banner-ko.png" alt="vibe-codex"></a>
 
-**[dailywave](https://github.com/kks0488/dailywave)** · React · [라이브 데모](https://dailywave.vercel.app)<br>
-ADHD 친화 생산성 앱. 한 번에 다음 한 걸음만, 흐름 중심 작업 관리.
+**[vibe-codex](https://github.com/kks0488/vibe-codex)** · Codex CLI · skills<br>
+Codex CLI용 근거 우선 작업 스킬. 작업 크기에 맞는 계획, 횟수 제한 재시도, 근거 있는 완료 보고.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/kks0488/vibe-inbox"><img src="https://github.com/kks0488/vibe-inbox/raw/main/assets/banner.png" alt="vibe-inbox"></a>
+<a href="https://github.com/kks0488/codex-memory"><img src="https://github.com/kks0488/codex-memory/raw/main/assets/banner-ko.png" alt="codex-memory"></a>
+
+**[codex-memory](https://github.com/kks0488/codex-memory)** · TypeScript · MCP server<br>
+MCP로 OpenAI Codex CLI에 오래 가는 기억을 줍니다. 내 컴퓨터의 SQLite에 저장.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/kks0488/mystats"><img src="https://github.com/kks0488/mystats/raw/main/assets/banner-ko.png" alt="mystats"></a>
+
+**[mystats](https://github.com/kks0488/mystats)** · React · AI journal · [라이브 데모](https://mystats-eta.vercel.app)<br>
+기록을 강점·패턴·커리어 전략으로 바꾸는 로컬 우선 AI 일기. Gemini·OpenAI·Claude·Grok 키를 골라 씁니다.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/kks0488/dailywave"><img src="https://github.com/kks0488/dailywave/raw/main/assets/banner-ko.png" alt="dailywave"></a>
+
+**[dailywave](https://github.com/kks0488/dailywave)** · React + FastAPI · [라이브 데모](https://dailywave.vercel.app)<br>
+ADHD 친화 흐름 플래너. 머릿속을 쏟아 놓으면 다음 한 걸음만 보여 줍니다.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/kks0488/vibe-inbox"><img src="https://github.com/kks0488/vibe-inbox/raw/main/assets/banner-ko.png" alt="vibe-inbox"></a>
 
 **[vibe-inbox](https://github.com/kks0488/vibe-inbox)** · Python · Gmail API<br>
-Gmail 정리 도구. Google Gemini가 메일 내용을 읽고 알맞은 라벨로 분류합니다.
+Gmail 정리 도구. AI가 메일 내용을 읽고 알맞은 라벨로 분류하고, 보낸 사람을 학습하고, 슬랙으로 보고합니다.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/kks0488/repofit"><img src="https://github.com/kks0488/repofit/raw/main/assets/banner-ko.png" alt="repofit"></a>
+
+**[repofit](https://github.com/kks0488/repofit)** · Python · Next.js<br>
+내 기술 스택과 목표에 맞는 GitHub 인기 저장소를 찾아 주는 AI 분석 도구.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/kks0488/repofit"><img src="https://github.com/kks0488/repofit/raw/main/assets/banner.png" alt="repofit"></a>
+<a href="https://github.com/kks0488/hackathon-calendar"><img src="https://github.com/kks0488/hackathon-calendar/raw/main/assets/banner-ko.png" alt="hackathon-calendar"></a>
 
-**[repofit](https://github.com/kks0488/repofit)** · Python<br>
-내 기술 스택과 목표에 맞는 GitHub 인기 저장소를 찾아 주는 AI 분석 도구.
+**[hackathon-calendar](https://github.com/kks0488/hackathon-calendar)** · Shell · iCalendar<br>
+해커톤 마감일을 .ics 하나로 Apple·Google 캘린더에 구독합니다.
 </td>
 </tr>
 </table>
 
-더 보기: [hackathon-calendar](https://github.com/kks0488/hackathon-calendar) (구독형 해커톤 캘린더) · [전체 저장소](https://github.com/kks0488?tab=repositories)
+<p align="center"><a href="https://github.com/kks0488?tab=repositories">전체 저장소 →</a></p>
 
-## 쓰는 도구
+## GitHub 통계
 
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI">
-  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square" alt="MCP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kks0488&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&rank_icon=github" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks0488&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d97757&langs_count=8" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kks0488&theme=github-dark-blue&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757" alt="GitHub streak">
+</p>
+
+## 기술 스택
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI">
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <br>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 ## 함께 일하기
 
-AI 에이전트, 업무 자동화, 팀용 Claude Code·Codex 설정이 필요하면
-**[Upwork](https://www.upwork.com/freelancers/~0197507708d4b35a03)**로 의뢰해 주세요.
+<p align="center">
+  AI 에이전트, 업무 자동화, 팀용 Claude Code·Codex 설정, AI 영상이 필요하면<br>업워크로 의뢰해 주세요.
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~0197507708d4b35a03"><img src="https://img.shields.io/badge/의뢰하기_on_Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+</p>
