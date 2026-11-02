@@ -63,69 +63,75 @@
 오래된 태블릿을 AI 에이전트 팀과 그 팀을 운영하는 한 사람을 위한 차분한 벽걸이 상황판으로 바꿉니다.
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/kks0488/agent-cards"><img src="https://github.com/kks0488/agent-cards/raw/main/assets/banner.png" alt="agent-cards"></a>
+
+**[agent-cards](https://github.com/kks0488/agent-cards)** | Python | Vikunja CLI<br>
+여러 AI 에이전트가 Vikunja에서 작업 담당자 지정, 마감일, 중간 체크포인트, 완료 근거를 겹치지 않게 관리하도록 돕는 파이썬 표준 라이브러리 기반 명령줄 도구입니다.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/kks0488/vibe-claude"><img src="https://github.com/kks0488/vibe-claude/raw/main/assets/banner-ko.png" alt="vibe-claude"></a>
 
 **[vibe-claude](https://github.com/kks0488/vibe-claude)** | Python | Claude Code plugin<br>
 코드를 읽지 않는 사람을 위한 Claude Code 플러그인. 실제 테스트가 통과할 때까지 Claude를 돌려보내고, 요청마다 백업하고, "되돌려" 한마디로 복구합니다.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/skilladopt"><img src="https://github.com/kks0488/skilladopt/raw/main/assets/banner-ko.png" alt="skilladopt"></a>
 
 **[skilladopt](https://github.com/kks0488/skilladopt)** | TypeScript | npm CLI<br>
 에이전트 스킬을 그냥 설치하지 말고 입양하세요. 남의 SKILL.md를 내 코드에 맞게 고치고, 근거를 남기고, 바뀐 뒤 다시 볼 줄을 알려 줍니다.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/over6"><img src="https://github.com/kks0488/over6/raw/main/assets/banner-ko.png" alt="over6"></a>
 
 **[over6](https://github.com/kks0488/over6)** | Next.js | multi-agent<br>
 12개 전통 중 고른 AI 철학자 5명이 3라운드 토론하고, 6번째 AI가 합의를 해체합니다. 결정은 사람이 합니다.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/vibe-codex"><img src="https://github.com/kks0488/vibe-codex/raw/main/assets/banner-ko.png" alt="vibe-codex"></a>
 
 **[vibe-codex](https://github.com/kks0488/vibe-codex)** | Codex CLI | skills<br>
 Codex CLI용 근거 우선 작업 스킬. 작업 크기에 맞는 계획, 횟수 제한 재시도, 근거 있는 완료 보고.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/codex-memory"><img src="https://github.com/kks0488/codex-memory/raw/main/assets/banner-ko.png" alt="codex-memory"></a>
 
 **[codex-memory](https://github.com/kks0488/codex-memory)** | TypeScript | MCP server<br>
 MCP로 OpenAI Codex CLI에 오래 가는 기억을 줍니다. 내 컴퓨터의 SQLite에 저장.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/mystats"><img src="https://github.com/kks0488/mystats/raw/main/assets/banner-ko.png" alt="mystats"></a>
 
 **[mystats](https://github.com/kks0488/mystats)** | React | AI journal | [라이브 데모](https://mystats-eta.vercel.app)<br>
 기록을 강점, 패턴, 커리어 전략으로 바꾸는 로컬 우선 AI 일기. Gemini, OpenAI, Claude, Grok 키를 골라 씁니다.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/dailywave"><img src="https://github.com/kks0488/dailywave/raw/main/assets/banner-ko.png" alt="dailywave"></a>
 
 **[dailywave](https://github.com/kks0488/dailywave)** | React + FastAPI | [라이브 데모](https://dailywave.vercel.app)<br>
 ADHD 친화 흐름 플래너. 머릿속을 쏟아 놓으면 다음 한 걸음만 보여 줍니다.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/vibe-inbox"><img src="https://github.com/kks0488/vibe-inbox/raw/main/assets/banner-ko.png" alt="vibe-inbox"></a>
 
 **[vibe-inbox](https://github.com/kks0488/vibe-inbox)** | Python | Gmail API<br>
 Gmail 정리 도구. AI가 메일 내용을 읽고 알맞은 라벨로 분류하고, 보낸 사람을 학습하고, 슬랙으로 보고합니다.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/repofit"><img src="https://github.com/kks0488/repofit/raw/main/assets/banner-ko.png" alt="repofit"></a>
 
 **[repofit](https://github.com/kks0488/repofit)** | Python | Next.js<br>
 내 기술 스택과 목표에 맞는 GitHub 인기 저장소를 찾아 주는 AI 분석 도구.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/hackathon-calendar"><img src="https://github.com/kks0488/hackathon-calendar/raw/main/assets/banner-ko.png" alt="hackathon-calendar"></a>
 
