@@ -140,8 +140,6 @@ Subscribe to hackathon deadlines in Apple or Google Calendar from one .ics feed.
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kks0488&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&rank_icon=github" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks0488&layout=compact&exclude_repo=aionda,jeju_proposal,skin.arctic.fuse.3.ko,B2Borangefactory&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d97757&langs_count=8" alt="Top languages">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kks0488&theme=github-dark-blue&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757" alt="GitHub streak">
