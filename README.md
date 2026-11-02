@@ -25,13 +25,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI agents & coding tools
+### AI agents & coding tools
 Claude Code and Codex plugins, skills and MCP servers that make agents test their work, keep backups and remember context.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Business automation
+### Business automation
 Email triage, scheduled scrapers, Slack alerts, dashboards and store operations that run on their own and report what they did.
 
 </td>
@@ -39,13 +39,13 @@ Email triage, scheduled scrapers, Slack alerts, dashboards and store operations 
 <tr>
 <td width="50%" valign="top">
 
-### 📊 E-commerce data
+### E-commerce data
 Former commerce data analyst and MD at adidas Korea, data analyst for Tommy Hilfiger and Calvin Klein outlets in Korea, then ran my own fashion outlet store.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Video & AI video
+### Video & AI video
 Freelance video shooting and editing, including architecture and interior films, now combined with AI image and video tools.
 
 </td>
