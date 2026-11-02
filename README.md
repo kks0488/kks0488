@@ -77,69 +77,75 @@ A small, standard-library Python CLI that gives AI agents exclusive cooperative 
 Send one brief to the right AI engine and fall back when execution fails or returns an empty or terminal error response.
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/kks0488/never-miss"><img src="https://github.com/kks0488/never-miss/raw/main/assets/banner.png" alt="never-miss"></a>
+
+**[never-miss](https://github.com/kks0488/never-miss)** | Python | Claude Code hook<br>
+A small Claude Code hook that saves submitted instructions in a local append-only inbox and shows which ones are still open.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/kks0488/vibe-claude"><img src="https://github.com/kks0488/vibe-claude/raw/main/assets/banner.png" alt="vibe-claude"></a>
 
 **[vibe-claude](https://github.com/kks0488/vibe-claude)** | Python | Claude Code plugin<br>
 Claude is sent back until a real test passes, every request is backed up, and "undo" restores files. For people who build with AI but don't read code.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/skilladopt"><img src="https://github.com/kks0488/skilladopt/raw/main/assets/banner.png" alt="skilladopt"></a>
 
 **[skilladopt](https://github.com/kks0488/skilladopt)** | TypeScript | npm CLI<br>
 Don't install agent skills, adopt them. Fits third-party SKILL.md files to your codebase, keeps the evidence and shows what a change invalidated.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/over6"><img src="https://github.com/kks0488/over6/raw/main/assets/banner.png" alt="over6"></a>
 
 **[over6](https://github.com/kks0488/over6)** | Next.js | multi-agent<br>
 Five AI philosophers from 12 traditions debate your question over three rounds; a sixth AI takes the consensus apart. You decide.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/vibe-codex"><img src="https://github.com/kks0488/vibe-codex/raw/main/assets/banner.png" alt="vibe-codex"></a>
 
 **[vibe-codex](https://github.com/kks0488/vibe-codex)** | Codex CLI | skills<br>
 Evidence-first workflow skills for Codex CLI: right-sized plans, bounded retries, completion claims backed by evidence.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/codex-memory"><img src="https://github.com/kks0488/codex-memory/raw/main/assets/banner.png" alt="codex-memory"></a>
 
 **[codex-memory](https://github.com/kks0488/codex-memory)** | TypeScript | MCP server<br>
 Gives OpenAI Codex CLI persistent memory through MCP, stored locally in SQLite.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/mystats"><img src="https://github.com/kks0488/mystats/raw/main/assets/banner.png" alt="mystats"></a>
 
 **[mystats](https://github.com/kks0488/mystats)** | React | AI journal | [live demo](https://mystats-eta.vercel.app)<br>
 Local-first AI journal that turns your notes into skills, patterns and a career strategy. Bring your own Gemini, OpenAI, Claude or Grok key.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/dailywave"><img src="https://github.com/kks0488/dailywave/raw/main/assets/banner.png" alt="dailywave"></a>
 
 **[dailywave](https://github.com/kks0488/dailywave)** | React + FastAPI | [live demo](https://dailywave.vercel.app)<br>
 ADHD-friendly flow planner: dump the chaos, then see one clear next step.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/vibe-inbox"><img src="https://github.com/kks0488/vibe-inbox/raw/main/assets/banner.png" alt="vibe-inbox"></a>
 
 **[vibe-inbox](https://github.com/kks0488/vibe-inbox)** | Python | Gmail API<br>
 Gmail organizer: an AI model reads each email and files it into the right label, with sender learning and Slack reports.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/repofit"><img src="https://github.com/kks0488/repofit/raw/main/assets/banner.png" alt="repofit"></a>
 
 **[repofit](https://github.com/kks0488/repofit)** | Python | Next.js<br>
 AI-assisted GitHub trending analyzer that finds repositories matching your stack and goals.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/hackathon-calendar"><img src="https://github.com/kks0488/hackathon-calendar/raw/main/assets/banner.png" alt="hackathon-calendar"></a>
 
