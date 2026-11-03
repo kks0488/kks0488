@@ -102,7 +102,7 @@ Claude Code와 Codex CLI 구독 사용률과 주간 사용 속도를 터미널 �
 <a href="https://github.com/kks0488/vibe-claude"><img src="https://github.com/kks0488/vibe-claude/raw/main/assets/banner-ko.png" alt="vibe-claude"></a>
 
 **[vibe-claude](https://github.com/kks0488/vibe-claude)** | Python | Claude Code plugin<br>
-코드를 읽지 않는 사람을 위한 Claude Code 플러그인. 실제 테스트가 통과할 때까지 Claude를 돌려보내고, 요청마다 백업하고, "되돌려" 한마디로 복구합니다.
+코드를 읽지 않는 사람을 위한 Claude Code 플러그인. 실제 테스트가 실패하면 Claude를 한 번 돌려보내 다시 시험하게 하고, 요청마다 백업하고, "되돌려" 한마디로 복구합니다.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/skilladopt"><img src="https://github.com/kks0488/skilladopt/raw/main/assets/banner-ko.png" alt="skilladopt"></a>

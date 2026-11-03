@@ -102,7 +102,7 @@ See Claude Code and Codex CLI subscription usage and weekly spending pace in one
 <a href="https://github.com/kks0488/vibe-claude"><img src="https://github.com/kks0488/vibe-claude/raw/main/assets/banner.png" alt="vibe-claude"></a>
 
 **[vibe-claude](https://github.com/kks0488/vibe-claude)** | Python | Claude Code plugin<br>
-Claude is sent back until a real test passes, every request is backed up, and "undo" restores files. For people who build with AI but don't read code.
+Claude is sent back once to retest if a real test fails, every request is backed up, and "undo" restores files. For people who build with AI but don't read code.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/kks0488/skilladopt"><img src="https://github.com/kks0488/skilladopt/raw/main/assets/banner.png" alt="skilladopt"></a>
